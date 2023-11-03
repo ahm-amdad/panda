@@ -36,3 +36,7 @@
 .categories h1{
     color:white;
 }
+.card{
+    boder:none;
+    box-shadow: 5px 10px 7px rgb(215, 200, 174);
+}
