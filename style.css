@@ -38,5 +38,13 @@
 }
 .card{
     boder:none;
+    border-radius: 10px;
     box-shadow: 5px 10px 7px rgb(215, 200, 174);
+}
+.card-footer{
+    background-color: white;
+    border-top:none;
+}
+#subscribe{
+    height:300px;
 }
